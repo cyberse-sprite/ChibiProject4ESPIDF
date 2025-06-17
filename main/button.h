@@ -1,0 +1,1 @@
+extern "C" void button_init(void (*confirm)(), void (*confirm_long)(), void (*left)(), void (*right)());
